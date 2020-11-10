@@ -1,0 +1,29 @@
+
+body {
+
+background-color: RGB(238, 232, 170) }
+
+h1 {
+	font-family: "Trebuchet MS", sans-serif;
+font-size: 30px; 
+color: RGB(144, 12, 63); 
+Text-align: center}
+
+h2 {font-family: "Helvetica", serif;
+font-size: 24px; 
+color: RGB(199, 0, 57); 
+Text-align: center; 
+margin: 25px}
+
+body {font-family: "Helvetica", sans-serif;
+font-size: 14px; 
+color: RGB(255, 87, 51)}
+
+.center {
+  Padding: 25px; 
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
